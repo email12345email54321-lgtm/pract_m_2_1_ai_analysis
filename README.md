@@ -44,5 +44,5 @@
 - файлы с "ChatGPT" или "ChatGpt" — ответы ChatGPT
 - файлы с "ГигаЧат" или "GigaChat" — ответы GigaChat
 
-Сравнительный анализ и выводы: analysis/comparative_analysis.md
-Ссылка на репозиторий: https://github.com/email12345email54321-lgtm/pract_m_2_1_ai_analysis
+- Сравнительный анализ и выводы: analysis/comparative_analysis.md
+- Ссылка на репозиторий: https://github.com/email12345email54321-lgtm/pract_m_2_1_ai_analysis
