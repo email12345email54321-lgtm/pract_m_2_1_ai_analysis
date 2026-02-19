@@ -40,10 +40,9 @@
 - `README.md` — этот документ
 
 ## Как посмотреть
-Все диалоги и результаты — в папке `results/`:  
-- `foreign_bot/` — ChatGPT  
-- `domestic_bot/` — GigaChat
+Все диалоги и результаты — в папке results/:
+- файлы с "ChatGPT" или "ChatGpt" — ответы ChatGPT
+- файлы с "ГигаЧат" или "GigaChat" — ответы GigaChat
 
-Полный отчёт (.docx или .pdf) будет прикреплён к заданию.
 Сравнительный анализ и выводы: analysis/comparative_analysis.md
 Ссылка на репозиторий: https://github.com/email12345email54321-lgtm/pract_m_2_1_ai_analysis
